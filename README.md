@@ -1,2 +1,2 @@
-# 100-Days-Problem-Solving
+# 60-Days-Problem-Solving
 Solving problems
